@@ -23,7 +23,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2014
     - course: Bmath
-      institution: Massachusetts Institute of Technology
+      institution: University of Waterloo
       year: 2011
 email: shalevbd@gmail.com
 superuser: true
