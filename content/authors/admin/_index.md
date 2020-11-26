@@ -11,24 +11,21 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=zPu_kWkAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: University of Waterloo
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: PhD in Computer Science
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+      year: 2017
+    - course: MEng in Computer Science
       institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+      year: 2014
+    - course: Bmath
+      institution: Massachusetts Institute of Technology
+      year: 2011
+email: shalevbd@gmail.com
 superuser: true
 user_groups:
   - Researchers
